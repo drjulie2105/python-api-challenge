@@ -47,6 +47,8 @@
    Pulled the weather CSV file from WeatherPy and put into DataFrame
    
    Displayed a heat map utilizing Latitude/Longitude as the locations and the humidity as the weight.
+   
+   ![title] (heat_map_final.png)
   
    Made a new DataFrame of "Perfect" weather of the following criteria:
    -A max temperature lower than 80 degrees but higher than 70.
