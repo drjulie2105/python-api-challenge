@@ -52,9 +52,9 @@ Saved a [CSV](https://github.com/drjulie2105/python-api-challenge/blob/developme
    ![image](https://github.com/drjulie2105/python-api-challenge/blob/development/heat_map_final.png)
   
    Made a new DataFrame of "Perfect" weather of the following criteria:
-   -A max temperature lower than 80 degrees but higher than 70.
-   -Wind speed less than 10 mph.
-   -Zero cloudiness.
+   - A max temperature lower than 80 degrees but higher than 70.
+   - Wind speed less than 10 mph.
+   - Zero cloudiness.
 
    Dropped any rows that did not contain all three conditions.
 
