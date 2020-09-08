@@ -1,30 +1,28 @@
 # Weather Py
 
-   Evaluation of 500+ random cities around the world utilizing citypy and random latitude and longitude.
+Evaluation of 500+ random cities around the world utilizing citypy and random latitude and longitude.
    
-   Utilized OpenWeatherMap API, Jupyter Notebook, Matplotlib and Pandas.
-   
-   Generated lists of City, Country, Latitude, Longitude, Humidity, Max. Temperature, Wind Speed 
-   and Cloudiness for the 500+ cities.
-   
-   Plotted scatter plots of the following relationships:
+Utilized OpenWeatherMap API, Jupyter Notebook, Matplotlib and Pandas.
 
-    Temperature (F) vs. Latitude
-    Humidity (%) vs. Latitude
-    Cloudiness (%) vs. Latitude
-    Wind Speed (mph) vs. Latitude
+Generated lists of City, Country, Latitude, Longitude, Humidity, Max. Temperature, Wind Speed and Cloudiness for the 500+ cities.
+
+Plotted scatter plots of the following relationships:
+[Temperature (F) vs. Latitude](https://github.com/drjulie2105/python-api-challenge/commit/84e56c856367271ff7fa14fc3e393bfb28a0bcfc)
+[Humidity (%) vs. Latitude](https://github.com/drjulie2105/python-api-challenge/blob/development/WeatherPy/lat_humid.png)
+[Cloudiness (%) vs. Latitude](https://github.com/drjulie2105/python-api-challenge/blob/development/WeatherPy/lat_cloud.png)
+[Wind Speed (mph) vs. Latitude](https://github.com/drjulie2105/python-api-challenge/blob/development/WeatherPy/lat_wind.png)
 
    Plotted linear regression plots separating Northern Hemisphere (greater than or equal to 0 degrees 
    latitude) and Southern Hemisphere (less than 0 degrees latitude):
 
-    Northern Hemisphere - Temperature (F) vs. Latitude
-    Southern Hemisphere - Temperature (F) vs. Latitude
-    Northern Hemisphere - Humidity (%) vs. Latitude
-    Southern Hemisphere - Humidity (%) vs. Latitude
-    Northern Hemisphere - Cloudiness (%) vs. Latitude
-    Southern Hemisphere - Cloudiness (%) vs. Latitude
-    Northern Hemisphere - Wind Speed (mph) vs. Latitude
-    Southern Hemisphere - Wind Speed (mph) vs. Latitude
+   -Northern Hemisphere - Temperature (F) vs. Latitude
+   -Southern Hemisphere - Temperature (F) vs. Latitude
+   -Northern Hemisphere - Humidity (%) vs. Latitude
+   -Southern Hemisphere - Humidity (%) vs. Latitude
+   -Northern Hemisphere - Cloudiness (%) vs. Latitude
+   -Southern Hemisphere - Cloudiness (%) vs. Latitude
+   -Northern Hemisphere - Wind Speed (mph) vs. Latitude
+   -Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
    Summarized what the linear regression charts demonstrated.
 
