@@ -48,7 +48,7 @@
    
    Displayed a heat map utilizing Latitude/Longitude as the locations and the humidity as the weight.
    
-   ![title] (heat_map_final.png)
+   ![image](https://github.com/drjulie2105/python-api-challenge/blob/development/heat_map_final.png)
   
    Made a new DataFrame of "Perfect" weather of the following criteria:
    -A max temperature lower than 80 degrees but higher than 70.
