@@ -62,3 +62,5 @@
 
    Ploted the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and 
    Country.
+   
+   ![image2](https://github.com/drjulie2105/python-api-challenge/blob/development/hotel_heat_map.png)
